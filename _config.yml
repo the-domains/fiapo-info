@@ -1,0 +1,28 @@
+name: Fiapo Info
+favicon: null
+layout_spectrum: 0.2680586543865502
+typography_spectrum: 0.24199237767606974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9422277249395847
+  lightness: 0.16154356254264712
+  saturation: 0.8920262563042343
+  rhythmicContrast: 0.8086369375232607
+purpose: []
